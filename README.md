@@ -3,7 +3,7 @@
 Ecommerce website build on angluar.Angular-version 11.2.11.
 
 # Netlify Site
-https://nagp2021niloy.netlify.app/
+https://niloy-shopping.netlify.app/
 
 ## Development server
 
